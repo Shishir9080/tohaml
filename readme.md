@@ -19,7 +19,7 @@ If you've downloaded an HTML file `index.html` then
 
     >> tohaml index.html 
 
-will output to screen; and
+will give output to console ; and
 
     >> tohaml index.html index.haml
 
